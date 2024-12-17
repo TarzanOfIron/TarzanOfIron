@@ -1,6 +1,6 @@
 # Hi there, I'm Boti 👋
-🔭 I’m currently studying Fullstack development at Lexicon<br>
-🌱 I’m currently learning Java<br>
+🔭 I’m currently studying **Fullstack Development** at Lexicon<br>
+🌱 I’m currently learning **Java**<br>
 
 
 ## 🌐 Socials:
